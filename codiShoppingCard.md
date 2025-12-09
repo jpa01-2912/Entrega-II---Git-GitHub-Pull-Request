@@ -1,0 +1,1 @@
+Es una solicitud formal para integrar cambios de una rama de código a otra (generalmente la principal) en un repositorio Git, facilitando la colaboración en equipo mediante la revisión de código (code review), discusión y detección de errores antes de la fusión, mejorando la calidad y estabilidad del proyecto
