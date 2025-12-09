@@ -1,5 +1,1 @@
-# GitLab (versió main)
-
-GitLab és una plataforma DevOps que permet gestionar repositoris, equips i pipelines.
-
-Aquesta és la versió que provocarà conflicte amb la branca feature/ShowProduct.
+Es una plataforma integral de código abierto para el ciclo de vida de DevOps (DevSecOps), que unifica la gestión de código fuente (repositorios Git) con herramientas de planificación, CI/CD (Integración y Despliegue Continuo), seguridad y monitoreo en una única aplicación, permitiendo a equipos colaborar de manera eficiente desde la idea hasta la producción en una única experiencia de usuario
